@@ -1,6 +1,6 @@
 # ⚡ Análisis de Eficiencia Energética en Edificios — México
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://analisis-eficiencia-energetica.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://zdokdmw6iu9ggaybxbfptd.streamlit.app)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?logo=plotly)
@@ -62,7 +62,7 @@ Las empresas de distribución eléctrica necesitan identificar **clientes con co
 
 ## 🖥️ Dashboard en Vivo
 
-👉 **[Acceder al Dashboard](https://analisis-eficiencia-energetica.streamlit.app)**
+👉 **[Acceder al Dashboard](https://zdokdmw6iu9ggaybxbfptd.streamlit.app)**
 
 Características:
 - Filtros dinámicos por tipo de cliente y estado
